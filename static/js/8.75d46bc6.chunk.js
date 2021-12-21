@@ -1,2 +1,0 @@
-(this["webpackJsonpflower-app"]=this["webpackJsonpflower-app"]||[]).push([[8],{127:function(t,p,e){"use strict";e.r(p);var s=e(0),c=(e(1),e(9));p.default=function(t){return Object(s.jsx)(c.c,{to:"/"})}}}]);
-//# sourceMappingURL=8.75d46bc6.chunk.js.map
