@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/agres/static/css/main.0a9d095e.chunk.css",
-    "main.js": "/agres/static/js/main.3c7deee9.chunk.js",
-    "main.js.map": "/agres/static/js/main.3c7deee9.chunk.js.map",
-    "runtime-main.js": "/agres/static/js/runtime-main.8065b94b.js",
-    "runtime-main.js.map": "/agres/static/js/runtime-main.8065b94b.js.map",
+    "main.js": "/agres/static/js/main.63021f6b.chunk.js",
+    "main.js.map": "/agres/static/js/main.63021f6b.chunk.js.map",
+    "runtime-main.js": "/agres/static/js/runtime-main.ecd0ed79.js",
+    "runtime-main.js.map": "/agres/static/js/runtime-main.ecd0ed79.js.map",
     "static/js/2.2ceba68b.chunk.js": "/agres/static/js/2.2ceba68b.chunk.js",
     "static/js/2.2ceba68b.chunk.js.map": "/agres/static/js/2.2ceba68b.chunk.js.map",
     "static/css/3.ecc14de2.chunk.css": "/agres/static/css/3.ecc14de2.chunk.css",
     "static/js/3.050ae2e3.chunk.js": "/agres/static/js/3.050ae2e3.chunk.js",
     "static/js/3.050ae2e3.chunk.js.map": "/agres/static/js/3.050ae2e3.chunk.js.map",
     "static/css/4.8e72ee27.chunk.css": "/agres/static/css/4.8e72ee27.chunk.css",
-    "static/js/4.6205a311.chunk.js": "/agres/static/js/4.6205a311.chunk.js",
-    "static/js/4.6205a311.chunk.js.map": "/agres/static/js/4.6205a311.chunk.js.map",
-    "static/css/5.2fd507e4.chunk.css": "/agres/static/css/5.2fd507e4.chunk.css",
-    "static/js/5.70bfa31d.chunk.js": "/agres/static/js/5.70bfa31d.chunk.js",
-    "static/js/5.70bfa31d.chunk.js.map": "/agres/static/js/5.70bfa31d.chunk.js.map",
+    "static/js/4.70522ed7.chunk.js": "/agres/static/js/4.70522ed7.chunk.js",
+    "static/js/4.70522ed7.chunk.js.map": "/agres/static/js/4.70522ed7.chunk.js.map",
+    "static/css/5.0976489c.chunk.css": "/agres/static/css/5.0976489c.chunk.css",
+    "static/js/5.b2ab57ee.chunk.js": "/agres/static/js/5.b2ab57ee.chunk.js",
+    "static/js/5.b2ab57ee.chunk.js.map": "/agres/static/js/5.b2ab57ee.chunk.js.map",
     "static/css/6.1b67852a.chunk.css": "/agres/static/css/6.1b67852a.chunk.css",
-    "static/js/6.411a8976.chunk.js": "/agres/static/js/6.411a8976.chunk.js",
-    "static/js/6.411a8976.chunk.js.map": "/agres/static/js/6.411a8976.chunk.js.map",
+    "static/js/6.84d3cbd8.chunk.js": "/agres/static/js/6.84d3cbd8.chunk.js",
+    "static/js/6.84d3cbd8.chunk.js.map": "/agres/static/js/6.84d3cbd8.chunk.js.map",
     "static/js/7.65bc8edb.chunk.js": "/agres/static/js/7.65bc8edb.chunk.js",
     "static/js/7.65bc8edb.chunk.js.map": "/agres/static/js/7.65bc8edb.chunk.js.map",
     "static/js/8.8ab949ab.chunk.js": "/agres/static/js/8.8ab949ab.chunk.js",
@@ -28,7 +28,7 @@
     "index.html": "/agres/index.html",
     "static/css/3.ecc14de2.chunk.css.map": "/agres/static/css/3.ecc14de2.chunk.css.map",
     "static/css/4.8e72ee27.chunk.css.map": "/agres/static/css/4.8e72ee27.chunk.css.map",
-    "static/css/5.2fd507e4.chunk.css.map": "/agres/static/css/5.2fd507e4.chunk.css.map",
+    "static/css/5.0976489c.chunk.css.map": "/agres/static/css/5.0976489c.chunk.css.map",
     "static/css/6.1b67852a.chunk.css.map": "/agres/static/css/6.1b67852a.chunk.css.map",
     "static/css/main.0a9d095e.chunk.css.map": "/agres/static/css/main.0a9d095e.chunk.css.map",
     "static/js/2.2ceba68b.chunk.js.LICENSE.txt": "/agres/static/js/2.2ceba68b.chunk.js.LICENSE.txt",
@@ -42,9 +42,9 @@
     "static/media/search.6ac6b6bc.svg": "/agres/static/media/search.6ac6b6bc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8065b94b.js",
+    "static/js/runtime-main.ecd0ed79.js",
     "static/js/2.2ceba68b.chunk.js",
     "static/css/main.0a9d095e.chunk.css",
-    "static/js/main.3c7deee9.chunk.js"
+    "static/js/main.63021f6b.chunk.js"
   ]
 }
